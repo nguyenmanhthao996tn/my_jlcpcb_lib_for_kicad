@@ -34,5 +34,5 @@ Replace `C165948` with the LCSC part number of the component you want to convert
 | [KANGNEX WJ2EDGR-5.08-04P](https://www.lcsc.com/product-detail/C8443.html) | C8443 | CustomTerminalBlock:CONN-TH_4P-P5.08_WJ2EDGR-5.08-4P | CustomTerminalBlock:CONN-TH_4P-P5.08_WJ2EDGR-5.08-4P |
 | [KANGNEX WJ2EDGK-5.08-04P](https://www.lcsc.com/product-detail/C71372.html) | C71372 | CustomTerminalBlock:CONN-TH_4P-P5.08_WJ2EDGR-5.08-4P | CustomTerminalBlock:CONN-TH_4P-P5.08_WJ2EDGR-5.08-4P |
 | [RJ45 Ethernet Connector](https://www.lcsc.com/product-detail/C386757.html) | C386757 | CustomEthernetConnector:RJ45-TH_R-RJ45R08P-C000 | CustomEthernetConnector:RJ45-TH_R-RJ45R08P-C000 |
-
+| [onsemi ESD5Z3.3T1G TVS](https://www.lcsc.com/product-detail/C61148.html) | C61148 | CustomUncategorized:ESD5Z3_3T1G_0 | CustomUncategorized:SOD-523F_L1.2-W0.8-LS1.7-RD |
 ---
